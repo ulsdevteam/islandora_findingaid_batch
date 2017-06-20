@@ -4,7 +4,7 @@ package = Islandora
 version = 7.x-1.6
 core = 7.x
 dependencies[] = islandora_batch
-dependencies[] = islandora_solution_pack_manuscript
+dependencies[] = islandora_manuscript
 files[] = includes/islandora_findingaid_batch.inc
 php = 5.3
 
